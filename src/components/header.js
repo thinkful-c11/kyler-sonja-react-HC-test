@@ -6,6 +6,7 @@ import InfoModal from './info-modal';
 import './header.css';
 
 export default class Header extends React.Component  {
+    
     constructor(props) {
         super(props);
         this.state = {
