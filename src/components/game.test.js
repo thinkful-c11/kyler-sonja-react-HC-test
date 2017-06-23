@@ -9,4 +9,8 @@ describe('<Game />', () => {
         shallow(<Game />);
     });
 
+    it("", () => {
+
+    });
+
 });
